@@ -8,7 +8,7 @@ This will show you an easy way to learn how to create, deploy and test a skill f
 - Install node.js from [HERE](https://nodejs.org)
 - Install Ask CLI by running the following in your terminal
 
-   `npm uninstall -g ask-cli`
+   `npm install -g ask-cli`
 
    `ask init`
    
