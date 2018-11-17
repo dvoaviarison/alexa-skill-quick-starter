@@ -32,9 +32,12 @@ This will show you an easy way to learn how to create, deploy and test a skill f
    `ask deploy`
 
 ## Test your first skill
-- Once deployed, you can go [HERE](https://developer.amazon.com/alexa/console/ask#). Click on your newly deployed skill and go to the "Test" tab.
-Now you can enter 
+- Once deployed, you can run the following
 
-   `ask <your skill name>`
+   `ask simulate -t "ask <your invocation name>" -l "en-US"`
 
-    and get the response back from alexa.
+   and get the response back from alexa.
+
+- You can try it right away with you linked echo device or go [HERE](https://developer.amazon.com/alexa/console/ask#) and test manually your skill
+
+    
