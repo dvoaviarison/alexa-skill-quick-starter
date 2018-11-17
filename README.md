@@ -11,6 +11,8 @@ This will show you an easy way to learn how to create, deploy and test a skill f
    `npm uninstall -g ask-cli`
 
    `ask init`
+   
+   This latter will ask you to provide with access an secret key
 
 ## Create your first skill
 - Create a skill by running the following 
