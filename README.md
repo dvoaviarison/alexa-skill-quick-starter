@@ -21,7 +21,7 @@ This will show you an easy way to learn how to create, deploy and test a skill f
   
   A node js project is automatically created for you.
 
-- You can open the project with you preferred IDE, and modify the skill as you like. I recommend vs-code as it is very light ang has gain an incredibly large trend due to the simplicity and extensibility it offers.
+- You can open the project with you preferred IDE, and modify the skill as you like. I recommend vs-code as it is very light ang has gained an incredibly large trend due to the simplicity and extensibility it offers.
 
 
 ## Deploy your first skill
