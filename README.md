@@ -4,7 +4,7 @@ This will show you an easy way to learn how to create, deploy and test a skill f
 
 ## Pre-req
 - Go [HERE](https://aws.amazon.com/console/) and create a free account then log in
-- Create an AMI user with access key as explained [HERE](https://aws.amazon.com/premiumsupport/knowledge-center/create-access-key/). Make sure you take good note of the created `access` and `secret` key. They will be used to give you proper CLI access so you will later do everything from command line without the need of navigating in the browser.
+- Create an IAM user with access key as explained [HERE](https://aws.amazon.com/premiumsupport/knowledge-center/create-access-key/). Make sure you take good note of the created `access` and `secret` key. They will be used to give you proper CLI access so you will later do everything from command line without the need of navigating in the browser.
 - Install node.js from [HERE](https://nodejs.org)
 - Install Ask CLI by running the following in your terminal
 
